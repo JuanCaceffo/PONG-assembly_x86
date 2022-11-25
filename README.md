@@ -1,5 +1,6 @@
 # PONG-assembly_x86
 recreacion del videojuego pong en assembly x86. Tp para la materia sistema de procesamiento de datos
+
 ## Equipo de desarrollo
 
 - Pablo Foglia
@@ -19,3 +20,7 @@ Yo me encargue de realizar los hitbox, colliders y movimiento de las barras. Rel
 
 ## Aprendizajes 
 este fue un tp realizado para la materia Sistema De Procesamiento de datos el cual ayudo muchisimo a consolidar los temas vistos en la materia. Un proyecto muy enriquesedor sin lugar a dudas. 
+
+## Instrucciones para compilar
+El juego puede ser compilado en una virtual de DOS utilizando tasm,
+se debe ejecutar el .bat en la virtual el cual compila el juego con sus subrutinas y lo ejecutará. 
